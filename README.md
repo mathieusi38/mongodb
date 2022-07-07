@@ -1,5 +1,11 @@
 # mongodb + nodejs
 
+Cours 1 :
+
+Création de cluster sur MongoDB Atlas 
+Installation de MongoDB Compass et Connexion.
+
+Cours 2 :
 
 Mettre en place un projet node avec : npm init -y
 Utilisation de Http
